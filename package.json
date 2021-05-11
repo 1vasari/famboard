@@ -19,7 +19,7 @@
     "express-basic-auth": "^1.2.0",
     "express-handlebars": "^3.1.0",
     "handlebars-helpers": "^0.10.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "mongoose": "^5.8.7"
   },
